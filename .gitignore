@@ -79,10 +79,3 @@ typings/
 # nuxt.js build / generate output
 .nuxt
 dist
-
-# Docker
-Dockerfile
-.dockerignore
-
-# Nginx
-nginx.conf
