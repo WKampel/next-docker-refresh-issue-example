@@ -83,7 +83,6 @@ dist
 # Docker
 Dockerfile
 .dockerignore
-docker-compose.yml
 
 # Nginx
 nginx.conf
